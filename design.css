@@ -1,0 +1,23 @@
+html, 
+
+Head {
+    text-align: center;
+}
+body{
+    min-height: 100vh;
+    background: linear-gradient(to bottom, white, rgb(96, 208, 252));
+}
+main {
+    text-align: center;
+}
+button {
+
+    text-align: center;
+    font-family: lucida sans;
+    margin-right: 175px;
+    border-radius: 15px;
+    color: white;
+}
+.contact {
+    text-align: left;
+}
