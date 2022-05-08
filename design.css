@@ -1,0 +1,14 @@
+main {
+    border:10px, solid;
+    border-color: black;
+}
+
+body {
+    border:10px, solid;
+    border-color: blue;
+}
+
+contact {
+    border:10px, solid;
+    border-color: orange;
+}
