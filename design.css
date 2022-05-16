@@ -1,14 +1,23 @@
-main {
-    border:10px, solid;
-    border-color: black;
+header {
+    background-color: lightcoral;
+}
+
+menu {
+    background-color: lightgoldenrodyellow;
 }
 
 body {
-    border:10px, solid;
-    border-color: blue;
+    background-color: burlywood;
+}
+
+main {
+    background-color: purple;
+}
+
+.gamebox {
+    background-color: lightskyblue;
 }
 
 contact {
-    border:10px, solid;
-    border-color: orange;
+    background-color: lightgreen;
 }
