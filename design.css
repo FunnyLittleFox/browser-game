@@ -9,6 +9,7 @@ menu {
     background-color: lightgoldenrodyellow;
     top: 10px;
 }
+
 ul {
     list-style: none;
     text-align: center;
@@ -30,8 +31,8 @@ body {
 
 main {
     background-color: purple;
-    height: 600px;
-    padding-top: 75px;
+    height: 550px;
+    padding-top: 50px;
     margin: auto;
 }
 
@@ -43,7 +44,7 @@ main {
 }
 
 .reset{
-
+    font-family: 'Lucida Sans';
 }
 
 footer {
