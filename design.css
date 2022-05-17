@@ -1,13 +1,30 @@
 header {
     background-color: lightcoral;
+    margin: auto;
+    font-family: 'Lucida Sans';
+    text-align: center;
 }
 
 menu {
     background-color: lightgoldenrodyellow;
 }
+ul {
+    list-style: none;
+    text-align: center;
+    margin: auto;
+}
+
+li {
+    display: inline;
+    margin: auto;
+    font-family: 'Lucida Sans';
+    font-size: 20px;
+    padding: 75px;
+}
 
 body {
     background-color: burlywood;
+    margin: auto;
 }
 
 main {
@@ -15,9 +32,13 @@ main {
 }
 
 .gamebox {
+    width: 700px;
+    height: 500px;
+    margin: auto;
     background-color: lightskyblue;
 }
 
 contact {
     background-color: lightgreen;
+    margin: auto;
 }
