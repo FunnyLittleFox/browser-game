@@ -43,6 +43,16 @@ main {
     background-color: lightskyblue;
 }
 
+.about {
+    margin: auto;
+    background-color: lightskyblue;
+}
+
+.profiles {
+    margin: auto;
+    background-color: lightskyblue;
+}
+
 .reset{
     font-family: 'Lucida Sans';
 }
